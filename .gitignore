@@ -1,0 +1,14 @@
+# Local secrets
+config.h
+
+# Arduino / IDE generated files
+*.hex
+*.bin
+*.elf
+*.map
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
